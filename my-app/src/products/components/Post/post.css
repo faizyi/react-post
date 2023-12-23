@@ -1,0 +1,8 @@
+.card-post{
+    box-shadow: 1px 1px 5px black !important;
+}
+.icon{
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
